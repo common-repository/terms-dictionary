@@ -1,0 +1,159 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Terms Dictionary\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-09 12:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: terms-dictionary"
+
+#: dictionary.php:42
+msgid "Add new terms"
+msgstr ""
+
+#: dictionary.php:41
+msgid "Add term"
+msgstr ""
+
+#: dictionary.php:65
+msgid "All letters"
+msgstr ""
+
+#: dictionary.php:45
+msgid "All terms"
+msgstr ""
+
+#: frontend.php:147
+msgid "Back"
+msgstr ""
+
+#: dictionary.php:39 dictionary.php:50
+msgid "Dictionary"
+msgstr ""
+
+#: dictionary.php:161
+msgid "Dictionary Thumbnail"
+msgstr ""
+
+#: dictionary.php:91
+msgid "Draft updated terms."
+msgstr ""
+
+#: dictionary.php:43
+msgid "Edit term"
+msgstr ""
+
+#: dictionary.php:104
+msgid "Letter"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "mailto:somonator@gmail.com"
+msgstr ""
+
+#: dictionary.php:44
+msgid "New term"
+msgstr ""
+
+#: frontend.php:144
+msgid "No terms yet ..."
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin to create a small dictionary with automatic grouping by letters."
+msgstr ""
+
+#: dictionary.php:90
+#, php-format
+msgid "Scheduled for publication: <strong>%1$s</strong>."
+msgstr ""
+
+#: dictionary.php:47
+msgid "Search terms"
+msgstr ""
+
+#: frontend.php:92
+msgid "Search:"
+msgstr ""
+
+#. Author of the plugin
+msgid "Somonator"
+msgstr ""
+
+#: frontend.php:98
+msgid "Tag:"
+msgstr ""
+
+#: dictionary.php:71
+msgid "Tags"
+msgstr ""
+
+#: dictionary.php:85
+msgid "Term is updated"
+msgstr ""
+
+#: dictionary.php:87
+msgid "Term published on the website."
+msgstr ""
+
+#: dictionary.php:88
+msgid "Term saved."
+msgstr ""
+
+#: dictionary.php:89
+msgid "Term submitted for review."
+msgstr ""
+
+#: dictionary.php:82
+msgid "Term updated."
+msgstr ""
+
+#: dictionary.php:40
+msgid "Terms"
+msgstr ""
+
+#: dictionary.php:86
+#, php-format
+msgid "Terms  restored from the editorial: %s"
+msgstr ""
+
+#. Name of the plugin
+msgid "Terms Dictionary"
+msgstr ""
+
+#: dictionary.php:48
+msgid "Terms not found."
+msgstr ""
+
+#: dictionary.php:49
+msgid "The basket does not have the terms."
+msgstr ""
+
+#: dictionary.php:84
+msgid "The parameter is removed."
+msgstr ""
+
+#: dictionary.php:83
+msgid "The parameter is updated."
+msgstr ""
+
+#: dictionary.php:103
+msgid "Title"
+msgstr ""
+
+#: frontend.php:67
+msgid "To all terms"
+msgstr ""
+
+#: dictionary.php:46
+msgid "View the term online"
+msgstr ""
